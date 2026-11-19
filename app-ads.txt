@@ -1,0 +1,3 @@
+# app-ads.txt for The Murly Labs
+# After registering the app in AdMob, replace this comment with the line from AdMob > Apps > app-ads.txt, e.g.:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
